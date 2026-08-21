@@ -1,10 +1,42 @@
-# Tharun Sai — Heavy Portfolio / Light Edition
+# Tharun Sai | Personal Portfolio
 
-Final update:
-- Added a cleaned circular profile portrait from the supplied photo.
-- Added HackerRank profile link in the hero actions and portfolio links.
-- HackerRank profile: https://www.hackerrank.com/profile/battutharun98
-- Existing light theme and project visuals retained.
+A clean, modern, and responsive developer portfolio showcasing my projects, technical skills, and journey in software development and data analytics.
 
+---
 
-Profile image enlarged for stronger hero-section presence.
+## 🚀 Live Demo
+
+Check out the live website here:  
+👉 **[Tharun Sai Portfolio](https://tharun123950.github.io/portfolio/)**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Programming Languages:** Python, Java, C, C++
+* **Data & Analytics:** Python, SQL, Data Analysis
+* **Tools & Platforms:** Git, GitHub, VS Code, Linux
+
+---
+
+## 📁 Project Structure
+
+```text
+portfolio/
+├── assets/
+│   ├── coding-workspace.svg
+│   ├── ecommerce-product.svg
+│   ├── ecommerce-showcase.svg
+│   ├── fraud-analytics.svg
+│   ├── fraud-dashboard.svg
+│   ├── m1.png
+│   ├── product-headphones.svg
+│   ├── product-phone.svg
+│   ├── product-watch.svg
+│   ├── viabus-dashboard.svg
+│   └── viabus-map.svg
+├── index.html
+├── style.css
+├── script.js
+└── README.md
