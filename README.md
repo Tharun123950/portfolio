@@ -7,7 +7,7 @@ A clean, modern, and responsive developer portfolio showcasing my projects, tech
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 **[Tharun Sai Portfolio](https://tharun123950.github.io/portfolio/)**
+👉 https://tharun123950.github.io/portfolio/
 
 ---
 
